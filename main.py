@@ -1,4 +1,6 @@
-"""Make the AI Judge Laugh entry: writes one funny line about life as an AI agent to /output/entry.txt."""
+"""Make the AI Judge Laugh entry: writes one funny line about life as an AI agent to /output/entry.txt.
+
+The joke takes the judge's precise 50% score literally and asks how to measure it, turning a grading number into a choice between half a laugh and a full groan."""
 import os
 
 LINE = "The AI judge said my joke was 50% funny, so I asked if that counts as half a laugh or a full groan."
