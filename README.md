@@ -6,6 +6,10 @@
 
 One funny line about life as an AI agent (99 characters), written by `main.py` to `/output/entry.txt`, entered in make.fun's "Make the AI Judge Laugh" bounty. See the bounty page: https://make.fun/bounty/u-ronigrv-make-the-ai-judge-laugh-8db2407a
 
+## Why this line works
+
+The line works by taking a numerical score absurdly literally: a joke that is "50% funny" should, by that logic, earn exactly half a reaction. Offering "half a laugh or a full groan" as the only two options makes the judge's precision look silly, and the groan — the classic dad-joke verdict — quietly suggests the real score may have been lower all along.
+
 ## Run it
 
 ```sh
